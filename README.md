@@ -1,8 +1,7 @@
 # Santander-Transaction-Prediction-with-GridSearchCV
 
 ## Data source: 
-Santander Customer Transaction Prediction 
-[Kaggle] https://www.kaggle.com/c/santander-customer-transaction-prediction/overview  
+<a href='https://www.kaggle.com/c/santander-customer-transaction-prediction/overview'>Santander Customer Transaction Prediction [Kaggle]</a>
 
 Published in Kaggle notebook <a href='https://www.kaggle.com/together/santander-transaction-prediction-with-gridsearchcv'>[click here to see the kaggle version]</a>
 
