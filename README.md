@@ -2,7 +2,12 @@
 
 ## Data source: 
 Santander Customer Transaction Prediction 
-[Kaggle] https://www.kaggle.com/c/santander-customer-transaction-prediction/overview 
+[Kaggle] https://www.kaggle.com/c/santander-customer-transaction-prediction/overview  
+
+Published in Kaggle notebook <a href='https://www.kaggle.com/together/santander-transaction-prediction-with-gridsearchcv'>click here to see the kaggle version</a>
+
+## Tool:
+scikit-learn
 
 ## Background:
 Santander, a wholly-owned subsidiary of Spanish Santander Group, commits to helping people and businesses get better in finance. For these reasons, Kagglers was invited by Santander to help them find which clients would be able to make specific trades in the future.
